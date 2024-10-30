@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tandaseru028
 - 👀 I’m looking for work now!!
 - 🌱 I’m currently learning javascript
-- 📫 How to reach me ...email:tandaseru028@gmail.com
+- 📫 How to reach me just, email:tandaseru028@gmail.com
 - 😄 Gender: male
 - ⚡ Hobby: Draw & Gaming
 
